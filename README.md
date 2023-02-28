@@ -6,9 +6,11 @@ I'm Matt Waite, a professor of practice in the College of Journalism and Mass Co
 
 I believe passionately in making my materials open and I believe textbook pricing is out of control. So, where I can, I make custom materials for my classes for students and give it to them for free.
 
-* [Sports Data Analysis and Visualization](http://mattwaite.github.io/sports/), a book on using R and the Tidyverse to analyze and visualize sports data. [Repo](https://github.com/mattwaite/sportsdatabook)
-* [Data Journalism with R and the Tidyverse](http://mattwaite.github.io/datajournalism/), a book on how to do analytic journalism using R and public data. [Repo](https://github.com/mattwaite/datajournalismbook)
-* [Getting Started with Drone Journalism](http://mattwaite.github.io/dronebook/), a book on how to pass the FAA's knowledge exam and start using drones for journalism.
+* [Sports Data Analysis and Visualization Tutorials]([https://mattwaite.github.io/sports/](https://github.com/mattwaite/SportsDataTutorials)), a set of interactive tutorials in how to use the Tidyverse to analyze and visualize sports data. Uses LearnR to display the tutorials.
+* [Sports Data Analysis and Visualization](http://mattwaite.github.io/sports/), a Quarto-based book on using R and the Tidyverse to analyze and visualize sports data. [Repo](https://github.com/mattwaite/sportsdatabook)
+* [Advanced Sports Data Analysis](https://mattwaite.github.io/advancedsports/), an in-progress Quarto-based book on using R, the Tidyverse and Tidymodels to bring machine learning into predicting outcomes in sports.
+* [Data Journalism with R and the Tidyverse Tutorials]([http://mattwaite.github.io/datajournalism/](https://github.com/mattwaite/DataJournalismTutorials)), a set of LearnR tutorials on how to do analytic journalism using R and public data.
+* [Getting Started with Drone Journalism](http://mattwaite.github.io/dronebook/), a Quarto-based book on how to pass the FAA's knowledge exam and start using drones for journalism.
 
 I also helped start the [Roper Lab for Data in Community News](https://roperdatalab.github.io/), using data journalism to create locally relevant data-driven content for small news organizations in Nebraska. And I'm interested in [using sensors](https://sensoringjournalism.github.io/) to gather [data for storytelling](https://github.com/SensoringJournalism). 
 
