@@ -21,7 +21,7 @@ I believe passionately in making my materials open and I believe textbook pricin
 
 #### Socials
 
-[Blue Sky](https://bsky.app/profile/mattwaite.bsky.social)
+[Blue Sky](https://bsky.app/profile/mattwaite.bsky.social)</br>
 [LinkedIn](https://www.linkedin.com/in/matthew-waite-bb820a5/)
 
 My employer uses me in [ads for the university](https://www.youtube.com/watch?v=qOEulworQ5E). And [recuiting materials](https://cocreate.unl.edu/article/matt-waite). And [alumni relations](https://www.huskeralum.org/s/1620/magazine/interior.aspx?sid=1620&gid=1&pgid=3124). My kids hate it.
