@@ -17,7 +17,7 @@ I believe passionately in making my materials open and I believe textbook pricin
 #### Archival materials
 
 * [Sports Data Analysis and Visualization](http://mattwaite.github.io/sports/), a Quarto-based book on using R and the Tidyverse to analyze and visualize sports data. [Repo](https://github.com/mattwaite/sportsdatabook)
-* [Data Journalism With R](https://mattwaite.github.io/datajournalism/), a Quarto-based book on using R and the Tidyverse to analyze and visualize data for journalism. [Repo](https://github.com/mattwaite/sportsdatabook)
+* [Data Journalism With R](https://mattwaite.github.io/datajournalism/), a Quarto-based book on using R and the Tidyverse to analyze and visualize data for journalism. [Repo](https://github.com/mattwaite/datajournalismbook)
 
 #### Socials
 
